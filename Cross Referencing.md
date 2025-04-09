@@ -12,3 +12,11 @@ One of Docupulse’s standout features is its **cross-referencing capability**. 
 - **Dynamic Linking**: Link Excel cells, pivot tables, or ranges directly to specific sections of any PDF or Word document.
 - **Enhanced Transparency**: When referencing a figure (e.g., cost, revenue, or clauses in a contract), you can jump straight to the exact location in the source document.
 - **Integrated Viewer**: View full documents from within Excel, jump to relevant excerpts, and correlate them with your data.
+
+![image](https://github.com/user-attachments/assets/5d42f83c-a8f3-4572-a94a-983cabd2cbea)
+
+![image](https://github.com/user-attachments/assets/bc1306e1-3baf-43aa-9b17-9bb7ceceaa33)
+
+![image](https://github.com/user-attachments/assets/b9546ff5-39bb-4f24-a2fc-fc05e4cd3842)
+
+
