@@ -20,9 +20,6 @@ Docupulse operates as a sidepane within Microsoft Excel. Users log in to access 
 
 # Support Contact
 For questions regarding implementation, usage, or bug reports, feel free to contact us anytime:
-Email: support@docupulse.de
+Email: cdrayss@docupulse.de
 Phone: +49 173 6989366
 (FAQs can be found on the back page.)
-
-# Feature Overview
-The following features are available:
