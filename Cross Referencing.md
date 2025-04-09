@@ -1,4 +1,4 @@
-# Cross-Referencing
+# 3. Cross-Referencing
 
 One of Docupulse’s standout features is its **cross-referencing capability**. You can link a specific cell or range in Excel (e.g., a cost center or dividend calculation) to the exact location in a PDF or Word document that backs up that data.
 

@@ -1,4 +1,4 @@
-# Search
+# 5. Search
 
 Docupulse uses **AI-powered semantic search** to understand the intent behind your queries — not just the exact words.
 
