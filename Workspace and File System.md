@@ -1,4 +1,4 @@
-# 4. Workspaces and File System
+# Workspaces and File System
 
 Docupulse organizes your work into **Workspaces** — collaborative environments where users access documents, queries, and analysis tasks.
 

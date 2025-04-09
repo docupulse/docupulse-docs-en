@@ -1,4 +1,4 @@
-## 6. Use Case Examples
+## Use Case Examples
 
 - "NDAs signed in Q1"
 - "Dividend clause in shareholder agreement"
