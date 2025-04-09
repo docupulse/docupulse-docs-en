@@ -7,3 +7,5 @@ Docupulse organizes your work into **Workspaces** — collaborative environments
 - **File Explorer**: Navigate through connected cloud storage (Google Drive, SharePoint, Dropbox) or on-premise servers.
 - **User Login**: Secure authentication for team members to access their specific workspace.
 - **Document Import**: Upload PDFs, Word documents, and spreadsheets — ready for indexing and AI analysis.
+
+![image](https://github.com/user-attachments/assets/7657af55-8969-44ee-8871-443665a79b6d)
