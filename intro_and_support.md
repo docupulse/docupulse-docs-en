@@ -14,14 +14,14 @@ With Docupulse, you can:
 
 - Automate **summaries and conclusion** generation.
 
-![image](https://github.com/user-attachments/assets/a8eeae7f-ed25-4d07-9621-4b5cc5cf5c9b)
+![docupulse (Copy) - Artboard 14](https://github.com/user-attachments/assets/62c32a79-0e2a-4591-8edc-17169e16d030)
 
 # How It Works
 Docupulse operates as a sidepane within Microsoft Excel. Users log in to access their workspaces and explore stored documents directly from Excel.
 
 # Platform
 Docupulse is Microsoft-Azure Cloud hosted, thus, it allowed to link unlimited amounts of documents to an Excel file. This works for local as well as browser-based Excel. 
-![image](https://github.com/user-attachments/assets/7e4421ce-b895-4fee-a698-c03476ae6347)
+![docupulse (Copy) - Artboard 15](https://github.com/user-attachments/assets/bc21d670-9c8e-4d7c-9ccc-c7d7df76015e)
 
 # Support Contact
 For questions regarding implementation, usage, or bug reports, feel free to contact us anytime:
