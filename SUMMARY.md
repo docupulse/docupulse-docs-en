@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Intro and Support](<Intro and Support.md>)
-* [Workspaces and File System](<Workspace and File System.md>)
-* [Cross-Referencing](<Cross Referencing.md>)
-* [Search](Search.md)
-* [Use Case Examples](<Use Cases.md>)
+* [Intro and Support](<intro_and_support.md>)
+* [Workspaces and File System](<workspace and_file_system.md>)
+* [Cross-Referencing](<cross_referencing.md>)
+* [Search](search.md)
+* [Use Case Examples](<use_cases.md>)
