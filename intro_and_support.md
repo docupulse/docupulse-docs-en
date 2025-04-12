@@ -14,7 +14,7 @@ With Docupulse, you can:
 
 - Automate **summaries and conclusion** generation.
 
-How It Works
+# How It Works
 
 Docupulse operates as a sidepane within Microsoft Excel. Users log in to access their workspaces and explore stored documents directly from Excel.
 
