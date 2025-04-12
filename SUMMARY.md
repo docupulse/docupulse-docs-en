@@ -5,3 +5,4 @@
 * [Cross-Referencing](<cross_referencing.md>)
 * [Search](search.md)
 * [Use Case Examples](<use_cases.md>)
+* [FAQs](<faqs.md>)
